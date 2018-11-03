@@ -193,7 +193,7 @@
 
                          $('*.pole2').css('background-color','#282C34');
                          $('*.pole2').css('color','#E8EAFC');
-                         $('*.pole2').css('border-color','#EAEEF0');s
+                         $('*.pole2').css('border-color','#EAEEF0');
                          $('*.pole2').css('text-align','center');
                          $('*.pole2').css('font-size','15px');
                                 console.log(x, k, l);
@@ -223,4 +223,4 @@
       'M = K^a * L^(a-1)   ≈ '+ (M).toFixed(3);
         // Собираю полученные данные с первой, второй кнопок и делаю мат. вычисления
        return arr;
-  }script
+  }
